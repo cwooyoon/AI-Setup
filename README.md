@@ -15,3 +15,10 @@ $ python3 -m venv myvenv
 ```
 
 윈도우에서 virtualenv를 생성하려면 콘솔 창을 열고,  C:\Python35\python -m venv myvenv를 실행
+
+
+## Anaconda 가상환경 setup
+
+* conda create --name E7003 --clone base
+
+
