@@ -23,5 +23,5 @@ $ python3 -m venv myvenv
 
 ### My Virtual Env
 
-* YTGP37 : Python=3.7, Tensorflow-gpu, Keras
+* YTGP37 : Python=3.7, Tensorflow-gpu=2.1.0, Keras=2.3.1
 
