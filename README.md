@@ -21,4 +21,7 @@ $ python3 -m venv myvenv
 
 * conda create --name E7003 --clone base
 
+### My Virtual Env
+
+* YTGP37 : Python=3.7, Tensorflow-gpu, Keras
 
