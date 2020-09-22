@@ -21,6 +21,13 @@ $ python3 -m venv myvenv
 
 * conda create --name E7003 --clone base
 
+## 한글환경
+
+### Jupyter Notebook 한글 쓰기
+* plt.rc('font', family='Malgun Gothic')
+* plt.rc('axes', unicode_minus=False)
+
+
 ### My Virtual Env
 
 * YTGP37 : Python=3.7, Tensorflow-gpu=2.1.0, Keras=2.3.1
