@@ -21,6 +21,11 @@ $ python3 -m venv myvenv
 
 * conda create --name E7003 --clone base
 
+
+### My Virtual Env
+
+* YTGP37 : Python=3.7, Tensorflow-gpu=2.1.0, Keras=2.3.1
+
 ## 한글환경
 
 ### Jupyter Notebook 한글 쓰기
@@ -28,8 +33,11 @@ $ python3 -m venv myvenv
 * plt.rc('axes', unicode_minus=False)
 * https://mindscale.kr/course/python-visualization-basic/font
 
+## Warning 없애기
 
-### My Virtual Env
+```
+import warnings
+warnings.filterwarnings(action='ignore') 
+```
 
-* YTGP37 : Python=3.7, Tensorflow-gpu=2.1.0, Keras=2.3.1
 
