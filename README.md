@@ -26,6 +26,7 @@ $ python3 -m venv myvenv
 ### Jupyter Notebook 한글 쓰기
 * plt.rc('font', family='Malgun Gothic')
 * plt.rc('axes', unicode_minus=False)
+* https://mindscale.kr/course/python-visualization-basic/font
 
 
 ### My Virtual Env
